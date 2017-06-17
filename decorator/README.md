@@ -1,6 +1,6 @@
-<h2>
+<h1>
     Decorator
-</h2>
+</h1>
 <p>
     El patrón Decorator responde a la necesidad de añadir dinámicamente funcionalidad a un Objeto. Esto nos permite no tener que crear sucesivas clases que hereden de la primera incorporando la nueva funcionalidad, sino otras que la implementan y se asocian a la primera.
 </p>
@@ -29,8 +29,8 @@
 <h3>
     Ejemplo PHP
 </h3>
-<code>
-    <?php
+```
+<?php
 
 //Componente
 //interfaz común a todas las armas
@@ -93,6 +93,6 @@ echo 'Ataque extra: ' . $espada->ataca() . "</br>";
 $espada = new extra_defensa( $espada_base );
 echo 'Defensa extra: ' . $espada->defiende();
 
-</code>
+```
 <hr>
 <small>The Ultimate Guide To Become a Code Ninja - By Cache</small>
