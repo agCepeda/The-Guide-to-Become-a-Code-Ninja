@@ -20,6 +20,3 @@
     <strong>Decorador Concreto</strong>
     Añade responsabilidades al componente.
 </p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/FacadeDesignPattern.png">
-<hr>
-The Ultimate guide to make a Facade by David Warlock
