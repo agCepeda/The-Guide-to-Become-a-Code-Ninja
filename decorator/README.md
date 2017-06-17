@@ -23,3 +23,4 @@
     <strong>Decorador Concreto</strong>
     Añade responsabilidades al componente.
 </p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Decorator_UML_class_diagram.svg/960px-Decorator_UML_class_diagram.svg.png">
