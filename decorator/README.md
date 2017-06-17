@@ -7,7 +7,7 @@
 <h3>
     Participantes
 </h3>
-<p>
+
     <strong>Componente</strong>
     Deﬁne la interfaz para los objetos que pueden tener responsabilidades añadidas.
 
@@ -19,4 +19,3 @@
 
     <strong>Decorador Concreto</strong>
     Añade responsabilidades al componente.
-</p>
