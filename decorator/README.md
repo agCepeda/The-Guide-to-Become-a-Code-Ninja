@@ -29,7 +29,7 @@
 <h3>
     Ejemplo PHP
 </h3>
-```
+```php
 <?php
 
 //Componente
