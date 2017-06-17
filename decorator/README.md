@@ -12,7 +12,7 @@ Mantiene una referencia al componente asociado. Implementa la interfaz de la sup
 **Decorador Concreto**
 Añade responsabilidades al componente.
 
-###Diagrama
+### Diagrama
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Decorator_UML_class_diagram.svg/960px-Decorator_UML_class_diagram.svg.png">
 
 ----------
