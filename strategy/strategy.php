@@ -73,3 +73,11 @@ echo "<br>Zerg: ";
 $zerg = new Zerg;
 $zerg->setEstrategia($moverRapido);
 $zerg->moverUnidades();
+
+echo "<br>Protoss: Realizando Upgrade a unidades Protoss:";
+echo "<br>||||-----";
+echo "<br>||||||---";
+echo "<br>|||||||||";
+echo "<br>Protoss: ";
+$zerg->setEstrategia($moverRapido);
+$zerg->moverUnidades();
